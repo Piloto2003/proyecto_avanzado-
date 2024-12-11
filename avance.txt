@@ -1,1 +1,2 @@
 Resumen de funcionalidades en desarrollo
+Primera funcionalidad: descripción.
