@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Resumen de funcionalidades en desarrollo
 Primera funcionalidad: descripción.
 Segunda funcionalidad: descripción.
+=======
+Cambios realizados en la rama main
+>>>>>>> main
